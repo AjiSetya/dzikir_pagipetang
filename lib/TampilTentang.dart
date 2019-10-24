@@ -34,7 +34,9 @@ class TampilanTentang extends StatelessWidget {
                 height: 20.0,
               ),
               Text(
-                  "Sumber\n\nArtikel Kajian\nhttps://artikel-kajian.blogspot.com/2017/03/dzikir-pagi.html"),
+                "Sumber\n\nArtikel Kajian\nhttps://artikel-kajian.blogspot.com/2017/03/dzikir-pagi.html\n\nIcon designed by Smashicons from Flaticon",
+                style: TextStyle(fontSize: 16.0),
+              ),
             ],
           ),
         ));
