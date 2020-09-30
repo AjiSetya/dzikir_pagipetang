@@ -1,5 +1,5 @@
 import 'package:dzikir_pagi_petang/data/data_dzikir.dart';
-import 'package:dzikir_pagi_petang/ui/widget/item_dzikir.dart';
+import 'package:dzikir_pagi_petang/ui/page/item_dzikir.dart';
 import 'package:flutter/material.dart';
 import 'package:page_indicator/page_indicator.dart';
 
