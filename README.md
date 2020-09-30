@@ -11,5 +11,5 @@ Project ini menggunakan SDK Flutter dengan komponen :
 
 ### Screenshot ###
 
-| <img src="https://github.com/AjiSetya/dzikir_pagipetang/blob/master/ss1.png" height="400" width="200"> | <img src="https://github.com/AjiSetya/dzikir_pagipetang/blob/master/ss1.png" height="400" width="200"> |
+| <img src="https://github.com/AjiSetya/dzikir_pagipetang/blob/master/ss1.png" height="400" width="200"> | <img src="https://github.com/AjiSetya/dzikir_pagipetang/blob/master/ss2.png" height="400" width="200"> |
 | :---: | :---: |
